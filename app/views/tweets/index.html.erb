@@ -15,7 +15,8 @@
                 </span>
                     <%= tweet.twitter %>
             </h1>
-            <p><%= tweet.tweet %>          Created At: <%= tweet.created_at %></p>
+            <p><%= tweet.tweet %>          Created At:  <%= time_ago_in_words(tweet.created_at )%></p>
+            <%byebug%>
         </li>
       <% end %>
     <% end %>
