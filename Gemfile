@@ -42,6 +42,7 @@ group :development do
   gem 'pry-rails'
   gem 'faker'
   gem 'cowsay'
+  gem 'bcrypt', '~> 3.1.7'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
