@@ -1,24 +1,7 @@
-# README
+Create a README.md file that contains your: firstname, lastname, email, github, and this special string: "be23fe67c942a40484a9927a15d4c470"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Firstanam: André
+Lastname: Rondon
+Email: rondon@estudiorondon.com.br
+Githb: https://github.com/andrerondon
+Special string: 'be23fe67c942a40484a9927a15d4c470'
